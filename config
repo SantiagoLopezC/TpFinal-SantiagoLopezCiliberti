@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origint"]
+	url = https://github.com/SantiagoLopezC/SantiagoLopezCiliberti.io.git
+	fetch = +refs/heads/*:refs/remotes/origint/*
+[remote "origin"]
+	url = https://github.com/SantiagoLopezC/SantiagoLopezC.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
