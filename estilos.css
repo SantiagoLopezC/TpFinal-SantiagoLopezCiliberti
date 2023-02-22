@@ -1,0 +1,61 @@
+*{font-family: 'Open Sans', sans-serif;
+}
+h1{
+  color: rgb(0, 0, 0);
+  background-color:#76b5c5;
+  text-align: center;
+  }
+#titular{
+  text-align: center;
+}
+#titulargris{
+  background-color:#76b5c5;
+}
+#BotonTitular{
+  background-color:#76b5c5;
+  color:black;
+}
+article{
+  text-align: center;
+  float:left;
+  position: left;
+  width:60%;
+  background-color: #eeeee4;
+  margin-left: 20%;
+  }
+#Perfil{
+  text-align: center;
+  background-color:#eeeee4;
+  }
+aside{
+  text-align: center;
+  float:right;
+  position: fixed;
+  width:20%;
+  }
+#texto{
+  text-align: left;
+}
+footer{
+  background-color:#eed35b;
+  text-align: center;
+  position:fixed;
+  bottom: 0px;
+  width:100%;
+  text-align: center;
+  }
+#imagenPerfil{
+  height:20%;
+  width:20%;
+  border-radius: 50%;
+}
+#BotonesAside{
+  width:70%;
+}
+.btn{
+  background-color: aqua;
+  padding:6px;
+  border-style:solid;
+  border-color: #76b5c5;
+  color:black;
+}
